@@ -1,6 +1,6 @@
 <h1 align="center">File Preview Picker</h1>
 
-![File Preview Picker](../FilePreview/public/file.jpg)
+![File Preview Picker](../File Drag & Drop/public/file.jpg)
 
 ## Commands to run:
 - npm install  
